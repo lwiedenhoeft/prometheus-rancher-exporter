@@ -1,5 +1,5 @@
 [![](https://images.microbadger.com/badges/version/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own image badge on microbadger.com")
-[![Go Report Card](https://goreportcard.com/badge/github.com/infinityworks/prometheus-rancher-exporter)](https://goreportcard.com/report/github.com/infinityworks/prometheus-rancher-exporter)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lwiedenhoeft/prometheus-rancher-exporter)](https://goreportcard.com/badge/github.com/lwiedenhoeft/prometheus-rancher-exporter)
 [![GoDoc](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter?status.svg)](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter)
 # prometheus-rancher-exporter
 
