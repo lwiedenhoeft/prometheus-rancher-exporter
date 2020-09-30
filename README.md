@@ -1,3 +1,6 @@
+[![](https://images.microbadger.com/badges/version/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own image badge on microbadger.com")
+[![Go Report Card](https://goreportcard.com/badge/github.com/infinityworks/prometheus-rancher-exporter)](https://goreportcard.com/report/github.com/infinityworks/prometheus-rancher-exporter)
+[![GoDoc](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter?status.svg)](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter)
 # prometheus-rancher-exporter
 
 Exposes the health of Stacks / Services and Hosts from the Rancher API, to a Prometheus compatible endpoint.
@@ -84,6 +87,4 @@ An example printout of the metrics you should expect to see can be found in `MET
 
 
 ## Metadata
-[![](https://images.microbadger.com/badges/version/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/infinityworks/prometheus-rancher-exporter.svg)](http://microbadger.com/images/infinityworks/prometheus-rancher-exporter "Get your own image badge on microbadger.com")
-[![Go Report Card](https://goreportcard.com/badge/github.com/infinityworks/prometheus-rancher-exporter)](https://goreportcard.com/report/github.com/infinityworks/prometheus-rancher-exporter)
-[![GoDoc](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter?status.svg)](https://godoc.org/github.com/infinityworks/prometheus-rancher-exporter)
+
