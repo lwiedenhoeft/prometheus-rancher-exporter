@@ -1,6 +1,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/lwiedenhoeft/prometheus-rancher-exporter)](https://goreportcard.com/badge/github.com/lwiedenhoeft/prometheus-rancher-exporter)
 [![GoDoc](https://godoc.org/github.com/lwiedenhoeft/prometheus-rancher-exporter?status.svg)](https://godoc.org/github.com/lwiedenhoeft/prometheus-rancher-exporter)
-[![Actions Status](https://github.com/lwiedenhoeft/prometheus-rancher-exporter/workflows/go/badge.svg)](https://github.com/lwiedenhoeft/prometheus-rancher-exporter/actions)
+[![Actions Status](https://github.com/lwiedenhoeft/prometheus-rancher-exporter/workflows/Go/badge.svg)](https://github.com/lwiedenhoeft/prometheus-rancher-exporter/actions)
 # prometheus-rancher-exporter
 
 Exposes the health of Stacks / Services and Hosts from the Rancher API, to a Prometheus compatible endpoint.
